@@ -14,6 +14,6 @@
 
 ![Edit Items](images/items%20edited.png)
 
-### Delet Items
+### Delete Items
 
 ![Delete Items](images/deleting%20items.png)
